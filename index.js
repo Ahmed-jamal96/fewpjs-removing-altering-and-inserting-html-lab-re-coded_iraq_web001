@@ -2,7 +2,7 @@
 main.remove();
 document.querySelector('body');
 let newHeader=document.createElement('h1');
-newHeader.setAttribute("id", "vectory");
+newHeader.setAttribute("id", "victory");
 
 
 
